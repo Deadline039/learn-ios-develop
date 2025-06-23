@@ -20,11 +20,6 @@
 			path = Scrumdinger;
 			sourceTree = "<group>";
 		};
-		003F3CD42E07498C00B7A643 /* Models */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Models;
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,7 +37,6 @@
 		003F3CB82E0748EC00B7A643 = {
 			isa = PBXGroup;
 			children = (
-				003F3CD42E07498C00B7A643 /* Models */,
 				003F3CC32E0748EC00B7A643 /* Scrumdinger */,
 				003F3CC22E0748EC00B7A643 /* Products */,
 			);
@@ -73,7 +67,6 @@
 			);
 			fileSystemSynchronizedGroups = (
 				003F3CC32E0748EC00B7A643 /* Scrumdinger */,
-				003F3CD42E07498C00B7A643 /* Models */,
 			);
 			name = Scrumdinger;
 			packageProductDependencies = (
